@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently  pursuing a diploma in Computer Science Engineering.</p>
+<p align="left">✨.<br>📚 I'm currently  pursuing a diploma in Computer Science Engineering.</p>
 
 ###
 
